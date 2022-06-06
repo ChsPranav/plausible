@@ -1,0 +1,39 @@
+.card{
+    height: 28rem;
+    min-height: auto;
+    background-color: white;
+    border-radius: 5px;
+    margin: 20px auto 5px auto;
+    box-shadow: 2px 2px #a9b2ba;
+}
+.card a{
+    text-decoration: none;
+    color: black ;
+}
+.card .row{
+margin: 5px 10px;
+}
+/* .column{
+    display: flex;
+    justify-content: center;
+} */
+.column2{
+    display: flex;
+    justify-content: end;
+    font-size: 0.7rem;
+}
+h3{
+    font-size: 1.25rem;
+}
+.active{
+    border-bottom: 2px solid #4338ca;
+color: #4338ca !important;
+}
+.main-card{
+    width: 40% !important;
+    margin: auto;
+}
+.nodata{
+    align-items: center;
+    text-align: center;
+}

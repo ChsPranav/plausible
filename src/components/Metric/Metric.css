@@ -1,0 +1,20 @@
+.metric{
+    cursor : pointer;
+    /* border : 2px solid black; */
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    /* background-color: #f9fafb; */
+    box-shadow: 2px 2px 8px 2px #e2e3e5;
+    margin: 0 1rem 0 1rem;
+}
+
+.title:hover{
+    border-bottom: 2px solid #4338ca;
+    color : #4338ca;
+}
+.metric-chart{
+    margin-top: 15px;
+}

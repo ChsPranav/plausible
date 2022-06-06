@@ -1,0 +1,8 @@
+canvas{
+    height : 70vh !important;
+    width : 70% !important;
+    margin: auto !important;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 1px 1px #a9b2ba;
+}
